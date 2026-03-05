@@ -9,6 +9,7 @@ import Rooms from './pages/Rooms';
 import QrFirstpage from './pages/QrFirstpage'; // แบบ 1: หน้าแรกก่อน Login
 import QRScanner from './pages/QRScanner';     // แบบ 2: หน้าสแกนหลัง Login แล้ว (มี Navbar)
 
+
 import Notification from './pages/Notification';
 import RoomStatus from './pages/RoomStatus';
 import Calendar from './pages/Calendar';
